@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52baoliaoo@gmail.com'
+    'huangguotop@gmail.com'
 ];
 
 var urls=[
@@ -51,8 +51,8 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52baoliaoo.pages.dev',
-	'https://52baoliaoo.github.io/',
+	'https://huangguotop.pages.dev',
+	'https://huangguotop.github.io/',
 ];
 var foreverUrls = [
 	  'https://52baoliao.net',
@@ -133,7 +133,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问52爆料'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问黄果短剧榜'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
