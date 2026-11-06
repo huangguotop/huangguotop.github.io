@@ -55,9 +55,9 @@ var otherUrls = [
 	'https://huangguotop.github.io/',
 ];
 var foreverUrls = [
-	  'https://52baoliao.net',
+	  'https://huangguotop.com',
 	JumpPage,
-	'https://baoliao.io',
+	'https://sihuangguo.com',
 	
 ];
 var notices = [
