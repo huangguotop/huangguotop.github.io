@@ -41,7 +41,7 @@ var urls=[
 	'zesipdjm.cc',
 ];                                                                                                                  
 
-var JumpPage="https://wbmnpeye.cc";
+var JumpPage="https://sihuangguo.com";
 
 var newestUrls = [];
 
